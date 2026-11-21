@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgrahmet&label=Profile%20views&color=0e75b6&style=flat" alt="sgrahmet" /> </p>
 
-- 🔭 I’m currently working on [Kabinari Project](https://github.com/SgrAhmet/lyrics-app)
+- 🔭 I’m currently working on [lyrics-app](https://github.com/SgrAhmet/lyrics-app)
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **react, js and java**
 
